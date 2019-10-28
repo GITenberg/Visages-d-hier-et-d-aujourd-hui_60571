@@ -1,0 +1,24 @@
+_repo: Visages-d-hier-et-d-aujourd-hui_60571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beaunier, André
+    alias: Beaunier, Andre
+    birthdate: 1869
+    deathdate: 1925
+    gutenberg_agent_id: '46270'
+    url: http://www.gutenberg.org/2009/agents/46270
+    wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Beaunier
+description: ''
+gutenberg_issued: '2019-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60571'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Visages d'hier et d'aujourd'hui
+url: http://www.gutenberg.org/ebooks/60571
